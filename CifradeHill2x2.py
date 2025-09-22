@@ -2,7 +2,7 @@
 # Exemplo de uso na linha de comando:
 # Para cifrar:   python cifrahill.py -enc textoclaro.txt -out textocifrado.txt
 # Para decifrar: python cifrahill.py -dec textocifrado.txt -out textoclaro.txt
-# Aluno : Hellian Sampaio Silva Peixinho 07-09-2025
+# Aluno : Hellian Sampaio Silva Peixinho 
 import numpy as np
 import sys
 
